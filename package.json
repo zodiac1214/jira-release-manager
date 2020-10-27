@@ -1,0 +1,19 @@
+{
+  "name": "jira-release-manager",
+  "version": "1.0.0",
+  "description": "a utility script that list all jira tickets between two commits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zodiac1214/jira-release-manager.git"
+  },
+  "author": "Di Zou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zodiac1214/jira-release-manager/issues"
+  },
+  "homepage": "https://github.com/zodiac1214/jira-release-manager#readme"
+}
